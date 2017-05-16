@@ -7,6 +7,12 @@
     "express": "^4.15.2",
     "jsonwebtoken": "^7.4.0"
   },
+  "engines": {
+    "node": "7.8.0"
+  },
+  "scripts": {
+    "start": "node index"
+  },
   "name": "session0704",
   "version": "1.0.0",
   "main": "index.js",
