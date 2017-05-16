@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "eslint-config-rallycoding": "^3.2.0",
+    "express": "^4.15.2"
+  },
+  "name": "session0704",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vanpho93/session0704.git",
+  "author": "Van Pho Nguyen <vanpho02@gmail.com>",
+  "license": "MIT"
+}
