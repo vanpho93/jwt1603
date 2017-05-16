@@ -24,3 +24,13 @@
 //     }
 // }
 */
+
+khoaphamtraining@gmail.com
+
+chu de: NOP DO AN NODE1603
+ten
+sdt
+ten de tai
+link github
+link heroku
+video mo ta cac chuc nang
